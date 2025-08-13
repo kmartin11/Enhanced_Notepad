@@ -1,4 +1,3 @@
-# Enhanced_Notepad
 # Enhanced Notepad 2.0
 
 **A powerful, lightweight text editor built with Python and Tkinter**
@@ -47,8 +46,8 @@ Enhanced Notepad is a feature-rich text editor that combines the simplicity of W
 - No additional dependencies required!
 
 ### Installation
-1. Download `enhanced_notepad.py`
-2. Run with Python: `python enhanced_notepad.py`
+1. Download `enhanced_notepad.pyw`
+2. Double click: `python enhanced_notepad.pyw`
 3. Start editing immediately!
 
 ### Building Executable (Optional)
